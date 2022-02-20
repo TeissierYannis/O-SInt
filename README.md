@@ -9,7 +9,7 @@ Open-source intelligence (OSINT) is intelligence collected from publicly availab
 
 # Notice - Changes regularly. 📰<br>
 <details>
-NON TO MENTION
+Non to mention.
 </details>
 
 
@@ -18,7 +18,7 @@ It's really simple, anyone can do it. Just follow the steps below.
 
 
 **Setup | Linux/Windows.** <br>
-Download the full code (.html) and save as a .HTML file, go into your selective browsers settings and import the .HTML file as a bookmark it should work straight out of the box, really no extra steps neccessary!
+Download the full code (.html) and save as a .HTML file, go into your selective browsers settings and import the .HTML file as a bookmark it should work straight out of the box, really no extra steps necessary!
 
 
 **Additional configuration.** <br>
@@ -37,7 +37,7 @@ SAINTS | Bug-testing | https://discord.com/invite/jpHrWjWeWS <br>
 Askeron | Hosting both kayr & kce | https://www.askeron.uk <br>
 
 
-# Reporting a Vulnerability. <br>
+# Reporting a vulnerability. <br>
 If you want to let us know of a potential vulnerability or major flaw, just visit: <br>
 https://github.com/LostShepherdUK/O-SInt/issues <br>
 and click 'New issue', we'll look into it as soon as we can.
