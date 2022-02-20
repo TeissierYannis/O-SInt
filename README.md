@@ -1,5 +1,5 @@
 # O-SInt - Information. <br>
-Open-source intelligence (OSINT) and Operational Security is intelligence collected from publicly available sources across various forms, though in the modern day it is often done online. In the intelligence community (IC), the term "open" refers to overt and readily, publicly made available sources (as opposed to covert or clandestine sources) as such this toolkit is not breaking any laws but simply compiling a list of best-used resources for when it comes to planning, recon and information gathering as a whole.
+Open-source intelligence (OSINT) is intelligence collected from publicly available sources across various forms, though in the modern day it is often done online. In the intelligence community (IC), the term "open" refers to overt and readily, publicly made available sources (as opposed to covert or clandestine sources) as such this toolkit is not breaking any laws but simply compiling a list of best-used resources for when it comes to planning, recon and information gathering as a whole.  Additionally this can aid in  Operational Security giving you a capacity to learn about the environment around you and monitor the internet for ne'er do wells.
 
 <body>
 <!-- Divider -->
