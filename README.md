@@ -31,7 +31,7 @@ Writing up soon.
 
 # The team & supporters. <br>
 Shepherd | Lead & Developer | https://github.com/LostShepherdUK <br>
-Mason | Developer | https://github.com/EliteLegacyy <br>
+Mason | Developer | https://github.com/Elitesnts <br>
 Cythes | Bug Testing | https://github.com/CythesOut <br>
 SAINTS | Bug-testing | https://discord.com/invite/jpHrWjWeWS <br>
 Askeron | Hosting both kayr & kce | https://www.askeron.uk <br>
