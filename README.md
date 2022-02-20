@@ -1,2 +1,2 @@
-# OpSint
-The Operation and Open Source Intel Bookmark toolkit (OpSint)
+# O-Sint
+The Operation (Open) Source Intel Bookmark toolkit (O-SInt)
