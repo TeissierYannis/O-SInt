@@ -32,7 +32,7 @@ Writing up soon.
 # The team & supporters. <br>
 Shepherd | Lead & Developer | https://github.com/LostShepherdUK <br>
 Mason | Supporting Developer | https://github.com/Elitesnts <br>
-Cythes | Bug Testing | https://github.com/CythesOut <br>
+Cythes | Bug Testing | https://github.com/AlexKollar <br>
 SAINTS | Bug Testing | https://discord.com/invite/jpHrWjWeWS <br>
 Askeron | Hosting both kayr & kce | https://www.askeron.uk <br>
 
