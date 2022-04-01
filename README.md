@@ -30,7 +30,7 @@ View the '.html' in raw, copy and paste it all into a notepad and save as "O-SIN
 
 
 # The team & supporters. 👥<br>
-Shepherd | Lead & Developer                            | https://github.com/LostShepherdUK<br>
+Shepherd | Lead & Developer                            | https://github.com/ItsJustShepherd<br>
 SAINTS | Community Bug Testing                         | https://discord.com/invite/jpHrWjWeWS<br>
 
 
