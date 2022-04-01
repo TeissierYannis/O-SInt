@@ -26,15 +26,12 @@ Non, at all. It really is easy to get started.
 
 
 # How to use. 📚<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan purus sed nisi commodo convallis. Nunc viverra congue tellus, eget varius libero elementum eget.
+View the '.html' in raw, copy and paste it all into a notepad and save as "O-SINT.html" from here you then import into your chosen browser through the respective bookmark management tool of that browser. It's that simple.
 
 
 # The team & supporters. 👥<br>
 Shepherd | Lead & Developer                            | https://github.com/LostShepherdUK<br>
-Mason | Supporting Developer and Research              | https://github.com/Elitesnts<br>
-Cythes | Bug Testing and Research                      | https://github.com/AlexKollar<br>
 SAINTS | Community Bug Testing                         | https://discord.com/invite/jpHrWjWeWS<br>
-Askeron | Hosting                                      | https://www.askeron.uk<br>
 
 
 # Reporting a vulnerability. 🔓<br>
