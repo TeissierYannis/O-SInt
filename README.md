@@ -36,7 +36,7 @@ SAINTS | Community Bug Testing                         | https://discord.com/inv
 
 # Reporting a vulnerability. 🔓<br>
 If you want to let us know of a potential vulnerability or major flaw, just visit: <br>
-https://github.com/LostShepherdUK/O-SInt/issues <br>
+https://github.com/ItsJustShepherd/O-SInt/issues <br>
 and click 'New issue', we'll look into it as soon as we can.
 
 
